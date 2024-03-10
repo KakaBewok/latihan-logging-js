@@ -1,0 +1,3 @@
+{"level":"info","message":"userIP=::1, host=Noprizal,  method=post, path=/notes, payload={\"status\":\"success\",\"message\":\"Catatan berhasil ditambahkan\",\"data\":{\"noteId\":\"dziC02nkymfiEj4L\"}}","timestamp":"2024-03-10 19:25:10"}
+{"level":"info","message":"userIP=::1, host=Noprizal,  method=post, path=/notes, payload={\"status\":\"success\",\"message\":\"Catatan berhasil ditambahkan\",\"data\":{\"noteId\":\"VY51v_kI51S3Xobv\"}}","timestamp":"2024-03-10 19:25:11"}
+{"level":"info","message":"userIP=::1, host=Noprizal,  method=post, path=/notes, payload={\"status\":\"success\",\"message\":\"Catatan berhasil ditambahkan\",\"data\":{\"noteId\":\"wjP4x0XIS1Yv1Eqn\"}}","timestamp":"2024-03-10 19:25:12"}

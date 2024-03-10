@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "D:\\NOPRIZAL\\BELAJAR\\PROGRAMMING\\3. JAVASCRIPT\\4. TUGAS COUSE\\1. DICODING\\DTS FGA BACKEND DICODING\\3. tugas_akhir_backend_expert\\latihan\\logging\\src\\logger\\.a881577f4772a808610aeb0049516ed5ca38d3ba-audit.json",
+    "files": [
+        {
+            "date": 1710071991098,
+            "name": "D:\\NOPRIZAL\\BELAJAR\\PROGRAMMING\\3. JAVASCRIPT\\4. TUGAS COUSE\\1. DICODING\\DTS FGA BACKEND DICODING\\3. tugas_akhir_backend_expert\\latihan\\logging\\src\\logger\\application-2024-03-10-18.log",
+            "hash": "d72677c270ba4b80a6afe97a1af298e82765830530b910b23e341198b778a77a"
+        },
+        {
+            "date": 1710072001556,
+            "name": "D:\\NOPRIZAL\\BELAJAR\\PROGRAMMING\\3. JAVASCRIPT\\4. TUGAS COUSE\\1. DICODING\\DTS FGA BACKEND DICODING\\3. tugas_akhir_backend_expert\\latihan\\logging\\src\\logger\\application-2024-03-10-19.log",
+            "hash": "76c1beb53685febd4ba04474c80a086fff11d5ad1917dafe4ba70fed9d8af299"
+        }
+    ],
+    "hashType": "sha256"
+}
